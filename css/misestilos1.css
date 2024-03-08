@@ -1,0 +1,45 @@
+#Caja_1
+{
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cajas_2
+{
+    background-color: chartreuse;
+    width: 300px;
+    height: 615px;
+    margin: 6px;
+}
+.subCajas_1
+{
+    background-color: rgb(46, 36, 235);
+    width: 85px;
+    height: 160px;
+    margin: 5px;
+    display: inline-block;
+}
+.subCajas_2
+{
+    background-color: rgb(244, 28, 186);
+    width: 287px;
+    height: 80px;
+    margin: 5px;
+    
+}
+.subCajas
+{
+    background-color:brown;
+    width: 270px;
+    height: 70px;
+    margin: 15px;
+}
+.Subcajitas
+{
+    background-color: rgb(46, 36, 235);
+    width: 85px;
+    height: 85px;
+    margin: 5px;
+    display: inline-block;
+}
